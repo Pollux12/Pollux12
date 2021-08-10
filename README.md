@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello 👋
+
+I sometimes make things, mostly on Garry's Mod for fun. Developer at [fearlessrp](https://fearlessrp.net/) and a ton of other things in the past. Currently studying Computer Science at uni.
+
+You can reach out to me on:
+- Discord: Pollux#0101
+- Steam: https://steamcommunity.com/id/pollluxx
 
 <!--
 **Pollux12/Pollux12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
