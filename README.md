@@ -3,8 +3,9 @@
 I sometimes make things, mostly on Garry's Mod for fun. Developer at [fearlessrp](https://fearlessrp.net/) and a ton of other things in the past. Currently studying Computer Science at uni.
 
 You can reach out to me on:
-- Discord: Pollux#0101
+- Discord: Pollux#0101 (Best way of contacting me)
 - Steam: https://steamcommunity.com/id/pollluxx
+- Email: pollux@arnux.net (I don't check this often though)
 
 <!--
 **Pollux12/Pollux12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
