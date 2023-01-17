@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I sometimes make things, mostly on Garry's Mod for fun. Developer at [fearlessrp](https://fearlessrp.net/) and a ton of other things in the past. Currently studying Computer Science at uni.
+I sometimes make things.
 
 You can reach out to me on:
 - Discord: Pollux#0101 (Best way of contacting me)
