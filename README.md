@@ -3,7 +3,7 @@
 I sometimes make things.
 
 You can reach out to me on:
-- Discord: .pollux
+- Discord: `.pollux`
 - Steam: https://steamcommunity.com/id/pollluxx
 
 <!--
